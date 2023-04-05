@@ -1,8 +1,8 @@
-# E-commrce-Back-End
+# E-commerce-Back-End
 
 ## Description
 
-
+Adding this back end app to my business so that I can compete with high-end e-commerce companies. This will bring more customer business to buy my products and they don't have to come into a store to shop. They can sit back and relax on the couch to shop online, especially if there is bad weather.
 
   ## Table of Contents
 
@@ -10,11 +10,11 @@
 
   ## Installation
 
-  
+  Run npm i to install inquirer.js, mysql2
 
   ## Usage
 
-  
+  This will help me bring more business to company and grow.
 
   ## License
 
