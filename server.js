@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(routes);
 
-sequelize.sync().then(function() {
+sequelize.sync({ force: false }).then(function() {
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}!`);
 });
