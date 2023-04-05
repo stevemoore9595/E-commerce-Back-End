@@ -26,7 +26,7 @@ Adding this back end app to my business so that I can compete with high-end e-co
 
   ## Walkthrough Video
   
-  Click the following link to access the walkthrough video: 
+  Click the following link to access the walkthrough video: https://watch.screencastify.com/v/5pheiewZ6qnFVmYX0n9w
 
   ## Questions
 
